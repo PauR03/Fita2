@@ -1,4 +1,0 @@
-Pau,Rius,Noriega,640380192
-Paula,Rios,Noruega,751491203
-Paulo,Noriega,Rius,123456789
-Mr.P,Mr.R,Mr.N,987654321
